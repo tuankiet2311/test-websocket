@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+   apiUrl: 'wss://your-domain.com/ws'
 };
