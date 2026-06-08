@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8080'
+  apiUrl: 'https://test-websocket-be-95i1.onrender.com'
 };
